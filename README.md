@@ -1,2 +1,2 @@
-# TIC-TAC_TOE
+# TIC-TAC-TOE
 Tic-Tac-Toe Game implementation in Verilog
