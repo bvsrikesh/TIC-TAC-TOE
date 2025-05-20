@@ -1,3 +1,6 @@
+#TIC-TAC-TOE
+[TIC-TAC-TOE.pdf](https://github.com/user-attachments/files/20297959/TIC-TAC-TOE.pdf)
+
 This project involves building a modular simulation of a two-player Tic-Tac-Toe game. It does not include AI or an automated opponent — instead, it tracks and enforces moves between two human players. The game state is updated after each move, and the system checks for a win or draw condition after every turn.
 
 🧩 Modules Implemented TCell Module
@@ -39,4 +42,4 @@ Moves are ignored once the game ends (win or draw) until a reset is issued.
 Win and draw detection logic integrated within the module.
 
 Only valid board positions (1-based index) are accepted.
-[TIC-TAC-TOE.pdf](https://github.com/user-attachments/files/20297959/TIC-TAC-TOE.pdf)
+
